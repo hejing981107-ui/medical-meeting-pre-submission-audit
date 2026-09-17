@@ -1,0 +1,3 @@
+interface:
+  display_name: "医学会议提交前审计"
+  short_description: "审核第三方医学会议结算与验收材料"
